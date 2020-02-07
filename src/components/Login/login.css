@@ -1,0 +1,11 @@
+.loginform{
+    background: #343A40;
+    margin:1rem auto;
+    color: whitesmoke;
+    padding: 2rem;
+    border-radius: 8px;
+    width: 75%;
+}
+.loginform input{
+    color: white;
+}
